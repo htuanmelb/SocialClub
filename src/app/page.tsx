@@ -36,7 +36,7 @@ export default async function Home() {
             Now accepting new members
           </div>
           <h1 className="text-5xl sm:text-6xl font-bold mb-6 leading-tight">
-            Welcome to <span className="text-indigo-300">SocialClub</span>
+            Welcome to <span className="text-indigo-300">VN50Up</span>
           </h1>
           <p className="text-xl text-indigo-200 mb-10 max-w-2xl mx-auto leading-relaxed">
             A vibrant community where connections are made, ideas are shared, and lasting friendships are built. Join thousands of members from all walks of life.
@@ -170,7 +170,7 @@ export default async function Home() {
       <section className="bg-gray-100 py-20">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-3">Why Join SocialClub?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-3">Why Join VN50Up?</h2>
             <p className="text-gray-500">Everything you need to connect, grow, and thrive.</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

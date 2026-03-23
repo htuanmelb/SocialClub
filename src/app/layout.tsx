@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SocialClub — Member Registration & Management",
+  title: "VN50Up — Member Registration & Management",
   description: "Join our vibrant social club community. Register, connect with members, and enjoy exclusive events.",
 };
 

@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="w-9 h-9 rounded-full bg-indigo-600 flex items-center justify-center">
                 <span className="text-white font-bold text-sm">SC</span>
               </div>
-              <span className="font-bold text-xl text-white">SocialClub</span>
+              <span className="font-bold text-xl text-white">VN50Up</span>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed">
               A vibrant community where connections are made, ideas are shared, and friendships are built.
@@ -32,13 +32,13 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-gray-400">
               <li>info@socialclub.example.com</li>
               <li>+1 (555) 123-4567</li>
-              <li>123 Club Street, City, ST 00000</li>
+              <li>12 Koonung St, Balwyn North 3104</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-500">
-          © {new Date().getFullYear()} SocialClub. All rights reserved.
+          © {new Date().getFullYear()} VN50Up. All rights reserved.
         </div>
       </div>
     </footer>

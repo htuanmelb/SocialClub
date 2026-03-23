@@ -1,4 +1,4 @@
-# Active Context: SocialClub — Membership Registration & Management
+# Active Context: VN50Up — Membership Registration & Management
 
 ## Current State
 
@@ -70,3 +70,4 @@ A full-featured social club membership registration and management system built 
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-03-23 | Full social club membership system built |
+| 2026-03-23 | Rebranded from SocialClub to VN50Up; updated contact address to 12 Koonung St, Balwyn North 3104 |
